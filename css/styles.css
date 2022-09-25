@@ -1,0 +1,57 @@
+a{
+  text-decoration: none;
+}
+
+
+.children{
+ background-image: url("../images/children.jpg");
+ background-repeat: no-repeat;
+}
+
+.movies{
+ background-image: url("../images/movies.jpg");
+ background-repeat: no-repeat;
+}
+
+.series{
+    background-image: url("../images/series.jpg");
+    background-repeat: no-repeat;
+}
+
+.sports{
+    background-image: url("../images/football.jpg");
+    background-repeat: no-repeat;
+
+    
+}
+ body{
+  margin: 0;
+  padding: 0;
+  line-height: 1.5;
+ }
+
+ .card{
+  text-align: left;
+  padding-left: 10px;
+  color: #fff;
+  padding-top: 0;
+  box-shadow: none;
+ }
+
+ .card .textincard, .bigtextincard{
+  padding: 5px 0;
+  margin: 10px;
+ }
+
+ .transbox{
+  height: 400px;
+  background: rgba(0, 0, 0, .5);
+  margin-left: -10px;
+ }
+
+ .transboard{
+  background: rgba(0, 0, 0, .5);
+  margin-left: -10px;
+ }
+
+      
